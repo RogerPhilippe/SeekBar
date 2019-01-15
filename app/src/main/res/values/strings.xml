@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+    <string name="app_main_title">Quão divertido você é?</string>
+    <string name="escala">Numa escala de 0 até 10</string>
+</resources>
